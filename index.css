@@ -101,6 +101,11 @@ li
     font-size:20px;
     font-weight:bold;
 }
+.company-year
+{
+    margin-left: auto;
+    margin-right: 0px;
+}
 .designation
 {
     font-size:12px;
