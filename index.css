@@ -103,8 +103,8 @@ li
 }
 .company-year
 {
-    margin-left: auto;
-    margin-right: 0px;
+    float: right !important;
+    width: 100px;
 }
 .designation
 {
