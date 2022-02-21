@@ -1,19 +1,9 @@
-#navbarNav
-{
-    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
-}
-
 header
 {
     background-color:#eee;
 }
 
-.navbar-nav
-{
-    float:right !important;
-    color:#000 !important;
-    font-weight:bold;
-}
+
 
 .social-media
 {
@@ -71,26 +61,8 @@ li
     padding:5px;
 }
 
-.project-name
-{
-    font-size:20px;
-    font-weight:bold;
-}
 
-.project-desc
-{
-    padding-top:20px;
-}
 
-.project-icon img
-{
-    width:100%;
-}
-
-.project
-{
-    padding-bottom:20px;
-}
 
 .glyphicon-phone
 {
@@ -100,20 +72,18 @@ li
 {
     font-size:20px;
     font-weight:bold;
+    padding: 0px;
 }
-.company-year
-{
-    float: right !important;
-    width: 100px;
-}
+
 .designation
 {
     font-size:12px;
     font-style: italic;
+    padding: 0px;
 }
 
 .jd{
-    padding-top:20px;
+    margin-top:40px;
 }
 
 .jd ul
